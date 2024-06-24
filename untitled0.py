@@ -102,3 +102,120 @@ if __name__ == "__main__":
     bank_system = BankSystem()
     bank_system.main_menu()
 
+
+#                 **output**
+# --- Welcome to the Bank System ---
+# 1. Create Account
+# 2. Login
+# 3. Exit
+# Choose an option: 1
+# Enter new account number: 4545777843548940
+# Enter new password: unnikrishnan h
+# Account created successfully.
+
+# --- Welcome to the Bank System ---
+# 1. Create Account
+# 2. Login
+# 3. Exit
+# Choose an option: 2
+# Enter account number: 4545777843548940
+# Enter password: unnikrishnan h
+# Login successful.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 3
+# Current balance is 0.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 1
+# Enter amount to deposit: 1468000
+# Deposited 1468000.0. New balance is 1468000.0.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 2
+# Enter amount to withdraw: 1100000
+# Withdrew 1100000.0. New balance is 368000.0.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 4
+# Logging out...
+
+# --- Welcome to the Bank System ---
+# 1. Create Account
+# 2. Login
+# 3. Exit
+# Choose an option: 3
+# Exiting the system. Goodbye!--- Welcome to the Bank System ---
+# 1. Create Account
+# 2. Login
+# 3. Exit
+# Choose an option: 1
+# Enter new account number: 4545777843548940
+# Enter new password: unnikrishnan h
+# Account created successfully.
+
+# --- Welcome to the Bank System ---
+# 1. Create Account
+# 2. Login
+# 3. Exit
+# Choose an option: 2
+# Enter account number: 4545777843548940
+# Enter password: unnikrishnan h
+# Login successful.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 3
+# Current balance is 0.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 1
+# Enter amount to deposit: 1468000
+# Deposited 1468000.0. New balance is 1468000.0.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 2
+# Enter amount to withdraw: 1100000
+# Withdrew 1100000.0. New balance is 368000.0.
+
+# --- Account Menu ---
+# 1. Deposit
+# 2. Withdraw
+# 3. Check Balance
+# 4. Logout
+# Choose an option: 4
+# Logging out...
+
+# --- Welcome to the Bank System ---
+# 1. Create Account
+# 2. Login
+# 3. Exit
+# Choose an option: 3
+# Exiting the system. Goodbye!
